@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <div className="logo-section">
-        <h1>Explore Our Location</h1>
+        <h1>Joseph Oliver Mangabang</h1>
         <div className="logo-container">
           <iframe
             title="Google Map"
